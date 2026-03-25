@@ -31,7 +31,8 @@ Built a hybrid recommendation system combining multiple techniques to improve re
 
 # Deployment
 
-🔗 (Add your Hugging Face link here)
+project-10 Movie_Recommendation_system
+https://huggingface.co/spaces/Sanjeet-ml/movie-recommendation-system
 
 # Output
 
