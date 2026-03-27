@@ -21,7 +21,8 @@ This project is a Sentiment Analysis system that predicts whether a given text i
 - Balanced Precision & Recall
 
 # Live Demo
- (Paste your Hugging Face link here)
+ Porject-15
+https://huggingface.co/spaces/Sanjeet-ml/sentiment-analysis-nlp
 
 # Files
 - `app.py` → Deployment code
